@@ -1,2 +1,2 @@
 # Pyrhon-OOP-chat-room
-Proof of concept of how Python objects can be sent through the socket (so multiplayer gaming is also possible)
+A proof of concept I made to show my students how Python objects can be sent through the socket (so multiplayer gaming is also possible)
